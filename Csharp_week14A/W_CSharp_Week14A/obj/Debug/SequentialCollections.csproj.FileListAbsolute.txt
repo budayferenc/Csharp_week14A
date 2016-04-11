@@ -1,0 +1,6 @@
+d:\Codecool\Github_down\W_CSharp_Week14A\bin\Debug\W_CSharp_Week14A.exe.config
+d:\Codecool\Github_down\W_CSharp_Week14A\bin\Debug\W_CSharp_Week14A.exe
+d:\Codecool\Github_down\W_CSharp_Week14A\bin\Debug\W_CSharp_Week14A.pdb
+d:\Codecool\Github_down\W_CSharp_Week14A\obj\Debug\SequentialCollections.csprojResolveAssemblyReference.cache
+d:\Codecool\Github_down\W_CSharp_Week14A\obj\Debug\W_CSharp_Week14A.exe
+d:\Codecool\Github_down\W_CSharp_Week14A\obj\Debug\W_CSharp_Week14A.pdb
